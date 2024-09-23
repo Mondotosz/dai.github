@@ -51,8 +51,8 @@ It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
 
-- Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
 - Kénan Augsburger [@Mondotosz](https://github.com/mondotosz)
+- Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
 
 ### DAI-TIC-C
 
